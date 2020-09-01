@@ -68,7 +68,7 @@ un identificador unico dado por la url de cada elemento que se obtiene de consul
 
 ## Autores ✒️
 
-- **Carlos Ignacio Avila Gutierrez** - _Web app Developer : a52xmax@gmail.com_
+- **Carlos Ignacio Avila Gutierrez** - _Web app Developer : a52xmax@gmail.com_ -_https://github.com/AvilaGTZ/giphySearcher_
 - **Wizeline Academy** - _Fork_
 
 ## Licencia 📄
