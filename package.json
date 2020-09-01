@@ -1,0 +1,25 @@
+{
+  "name": "modern-javascript-crash-course-base-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@giphy/js-fetch-api": "1.5.9",
+    "@giphy/js-types": "2.0.2",
+    "@giphy/react-components": "1.3.0",
+    "react": "16.8.4",
+    "react-async-hook": "3.3.1",
+    "react-dom": "16.8.4",
+    "react-resize-observer": "1.1.1",
+    "react-scripts": "2.1.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
